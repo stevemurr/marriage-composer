@@ -1,0 +1,14 @@
+{
+  "demos": [
+    {
+      "slug": "marriage-composer",
+      "title": "Marriage Composer",
+      "entry": "marriage-composer.jsx"
+    },
+    {
+      "slug": "marriage-architecture",
+      "title": "Marriage Architecture",
+      "entry": "marriage-architecture.jsx"
+    }
+  ]
+}
